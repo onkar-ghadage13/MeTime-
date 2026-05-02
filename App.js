@@ -1,7 +1,7 @@
 /* ============================================================
    MeTime+ — app.js
    Tagline : Your time. Your flow.
-   Author  : Ayushman Thakur
+   Author  : Ananda Rokade
    ============================================================
 
    SECTIONS
